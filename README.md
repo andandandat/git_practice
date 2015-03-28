@@ -9,3 +9,4 @@ echo .DS_Store >> $HOME/.gitignore
 echo Thumbs.db >> $HOME/.gitignore
 git config --global user.name "andandandat"
 git config --global user.email "andandandat@gmail.com"
+git clone https:github.com/andandandat/git_practice.git
